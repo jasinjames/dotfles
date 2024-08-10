@@ -1,0 +1,34 @@
+# Colors (One Dark)
+colors:
+  # Default colors
+  primary:
+    background: '#292C33'
+    foreground: '#EBEBEB'
+
+  # Cursor colors
+  cursor:
+   text:   '#ACB2BE'
+   cursor: '#5F8CEB'
+
+  # Normal colors
+  normal:
+    black:   '#22252A'
+    red:     '#D27278'
+    green:   '#A0BF80'
+    yellow:  '#C57970'
+    blue:    '#72AEE7'
+    magenta: '#BC83D8'
+    cyan:    '#6FB4C0'
+    white:   '#ACB2BE'
+
+  # Bright colors
+  bright:
+    black:   '#292C33'
+    red:     '#D32C1F'
+    green:   '#63D33F'
+    yellow:  '#E0C185'
+    blue:    '#002CF5'
+    magenta: '#D23CDE'
+    cyan:    '#66E2E4'
+    white:   '#E5E6E6'
+
