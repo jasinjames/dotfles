@@ -1,2 +1,17 @@
+theme = "default"
+
+[editor]
+mouse = true
+auto-pairs = false
+
+[editor.statusline]
+right = ["position-percentage", "selections", "position"]
+
 [editor.soft-wrap]
 enable = true
+
+[editor.cursor-shape]
+insert = "block"
+normal = "bar"
+select = "bar"
+
