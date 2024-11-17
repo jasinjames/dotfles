@@ -1,0 +1,6 @@
+# Files and directories to ignore from all projects on this machine
+# In particular, files created by my editor which shouldn't leak to other developers
+# Can be configured with $ git config --global core.excludesfile ~/.gitignore_global
+.vscode
+# Jury's still out on this one. If you want to use ocamlformat you'll need it, but still dev environment-specific
+.merlin

@@ -1,0 +1,6 @@
+[user]
+	email = bosemaj@gmail.com
+	name = James O'Brien
+[pull]
+[core]
+	excludesfile = /Users/jamesobrien/.gitignore_global
