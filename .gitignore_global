@@ -4,3 +4,5 @@
 .vscode
 # Jury's still out on this one. If you want to use ocamlformat you'll need it, but still dev environment-specific
 .merlin
+.DS_Store
+
