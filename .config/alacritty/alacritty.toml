@@ -1,0 +1,39 @@
+[colors.bright]
+black = "#000000"
+blue = "#002CF5"
+cyan = "#66E2E4"
+green = "#63D33F"
+magenta = "#D23CDE"
+red = "#D32C1F"
+white = "#E5E6E6"
+yellow = "#E0C185"
+
+[colors.cursor]
+cursor = "#5F8CEB"
+text = "#ACB2BE"
+
+[colors.normal]
+black = "#22252A"
+blue = "#72AEE7"
+cyan = "#6FB4C0"
+green = "#A0BF80"
+magenta = "#BC83D8"
+red = "#D27278"
+white = "#ACB2BE"
+yellow = "#C57970"
+
+[colors.primary]
+background = "#292C33"
+foreground = "#EBEBEB"
+
+[font.bold]
+family = "Menlo"
+style = "Bold"
+
+[font.italic]
+family = "Menlo"
+style = "Italic"
+
+[font.normal]
+family = "Menlo"
+style = "Regular"
