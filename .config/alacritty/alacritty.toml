@@ -37,3 +37,10 @@ style = "Italic"
 [font.normal]
 family = "Menlo"
 style = "Regular"
+
+[keyboard]
+bindings = [
+   # For this to work on MacOS, you need to define a keyboard shortcut for Cmd+Q which takes precedence. I use "About alacritty"
+   { key = "Q", mods = "Command", action = "None" },
+   { key = "W", mods = "Command", action = "None" },
+]
