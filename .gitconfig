@@ -3,4 +3,4 @@
 	name = James O'Brien
 [pull]
 [core]
-	excludesfile = /Users/jamesobrien/.gitignore_global
+	excludesfile = ~/.gitignore_global
