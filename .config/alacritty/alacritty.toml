@@ -27,16 +27,16 @@ background = "#292C33"
 foreground = "#EBEBEB"
 
 [font.bold]
-family = "Menlo"
-style = "Bold"
+#family = "Menlo"
+#style = "Bold"
 
 [font.italic]
-family = "Menlo"
-style = "Italic"
+#family = "Menlo"
+#style = "Italic"
 
 [font.normal]
-family = "Menlo"
-style = "Regular"
+#family = "Menlo"
+#style = "Regular"
 
 [keyboard]
 bindings = [
